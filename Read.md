@@ -1,1 +1,1 @@
-In this project we have use DCGan and kaggle anime Dataset to generate images of anime Character from random noises. We have used kaggle Datset For image genration. Url:https://www.kaggle.com/datasets/splcher/animefacedataset
+In this project we have use DCGan and anime faces Dataset to generate images of anime Character from random noises. We have used kaggle Datset For image genration. Url:https://www.kaggle.com/datasets/splcher/animefacedataset
